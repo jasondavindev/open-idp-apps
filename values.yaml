@@ -1,0 +1,7 @@
+apps:
+  repository: https://github.com/jasondavindev/open-idp-apps.git
+  pathPrefix: apps
+  targetRevision: main
+
+  applications:
+    safplatform: {}
